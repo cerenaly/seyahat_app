@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "946283056416",
+    "project_id": "seyahat-app-719ff",
+    "storage_bucket": "seyahat-app-719ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946283056416:android:b728ff5b7a7557f9111b45",
+        "android_client_info": {
+          "package_name": "com.example.seyahat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946283056416-gduopc9nl90k0854dqff5or0gel1hh20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seyahat_app",
+            "certificate_hash": "caa6764a6901677997f11aa586e7a87b95b88131"
+          }
+        },
+        {
+          "client_id": "946283056416-mo86fpf0gu5sh7g20q6hcucierb9rtoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcyrAQ_AU36xjFsifM_dzqG7Eez7qRoSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946283056416-mo86fpf0gu5sh7g20q6hcucierb9rtoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "946283056416-mkbe9018hrs0do5s26s1s7k6oavjnqik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.seyahatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
